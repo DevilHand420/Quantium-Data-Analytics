@@ -15,5 +15,6 @@
    - Integrated insights from Task 1 and 2 to craft a comprehensive report for our client, the Category Manager. 📋
    - Showcased strong commercial thinking, refined presentation skills, and effective communication to convey analytical findings, assisting the client in making informed and data-driven decisions for their supermarket strategy. 🚀
 
-![Analytics Image](https://www.thefastmode.com/media/k2/items/src/2f4ef0deb525622fe67021ccc13da69d.jpg?t=20211117_003022)
-
+<div style="text-align:center">
+  <img src="https://www.thefastmode.com/media/k2/items/src/2f4ef0deb525622fe67021ccc13da69d.jpg?t=20211117_003022" alt="Analytics Image" />
+</div>
