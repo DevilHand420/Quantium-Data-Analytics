@@ -19,4 +19,4 @@
   <img src="https://www.thefastmode.com/media/k2/items/src/2f4ef0deb525622fe67021ccc13da69d.jpg?t=20211117_003022" alt="Analytics Image" />
 </div>
 
-Let's connect on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dikshant-sharma-b41539232/)
+Let's connect on LinkedIn: [Dikshant LinkedIn Profile](https://www.linkedin.com/in/dikshant-sharma-b41539232/)
